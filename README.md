@@ -6,7 +6,7 @@ Experienced problem-solver in complex situations with a proven track record of d
 
 #### Fun Fact...
 
-I like to do handstands ... <a href=""> (Loading) </a>
+I like to do handstands ... <a href=""> (Loading) </a> :thinking:
 
 ### 👩‍💻 Languages
 
