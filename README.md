@@ -1,10 +1,14 @@
 ![alt text](https://github.com/nmehanma/nmehanma/blob/main/codeCompileGood.png)
 
-## Hi there, you've found your way to my profile 👋
+## Hi there... you've found your way to my profile... 👋
 
 Experienced problem-solver in complex situations with a proven track record of delivering meaningful results. All I ask in return is for you to help me to help you continue to help others :pray:
 
-### Languages
+#### Fun Fact...
+
+I like to do handstands ... <a href=""> (Loading) </a>
+
+### 👩‍💻 Languages
 
 <kbd> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> </kbd>
 <kbd> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> </kbd>
@@ -12,7 +16,7 @@ Experienced problem-solver in complex situations with a proven track record of d
 <kbd> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </kbd>
 <kbd> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> </kbd>
   
-### Frameworks
+### 🚀 Frameworks
 
 <kbd> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> </kbd>
 <kbd> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> </kbd>
@@ -27,13 +31,13 @@ Experienced problem-solver in complex situations with a proven track record of d
 <kbd> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> </kbd>
 <kbd> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /> </kbd>
 
-### Database
+### ⚡ Database
 
 <kbd> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> </kbd>
 <kbd> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> </kbd>
 <kbd> <img src="https://img.shields.io/badge/Microsoft-Sql-Server?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> </kbd>
 
-### Connect With Me
+### :smiley: Connect With Me
 
 <kbd> <a href="https://github.com/nmehanma"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </kbd>
 <kbd> <a href="https://www.linkedin.com/in/najeammehanmal/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </kbd>
