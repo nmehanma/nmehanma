@@ -29,6 +29,20 @@ Experienced problem-solver in complex situations with a proven track record of d
 <kbd> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </kbd>
 <kbd> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /> </kbd>
 
+### Database
+
+<kbd> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/Microsoft-Sql-Server?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> </kbd>
+
+### Connect With Me
+
+<kbd> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </kbd>
+
+
+
+
 
 
 
