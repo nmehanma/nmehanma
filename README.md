@@ -2,11 +2,9 @@
 
 ## Hi there... you've found your way to my profile... 👋
 
-Experienced problem-solver in complex situations with a proven track record of delivering meaningful results. All I ask in return is for you to help me to help you continue to help others :pray:
+###### Experienced problem-solver in complex situations with a proven track record of delivering meaningful results. All I ask in return is for you to help me to help you continue to help others :pray:
 
-##### Fun Fact...
-
-I like to do handstands ... <a href=""> (Loading) </a> :thinking:
+###### Fun Fact... I like to do handstands ... <a href=""> (Loading) </a> :thinking:
 
 ##### 👩‍💻 Languages
 
