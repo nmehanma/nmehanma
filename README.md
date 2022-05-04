@@ -1,8 +1,12 @@
 ![alt text](https://github.com/nmehanma/nmehanma/blob/main/codeCompileGood.png)
 
-## Hi there, you've found your way to my profile 👋
+## Hi there... you've found your way to my profile... 👋
 
 Experienced problem-solver in complex situations with a proven track record of delivering meaningful results. All I ask in return is for you to help me to help you continue to help others :pray:
+
+#### Fun Fact...
+
+I like to do handstands ... <a href=""> (Loading) </a>
 
 ### Languages
 
