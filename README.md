@@ -1,4 +1,4 @@
-![alt text](https://github.com/nmehanma/nmehanma/blob/main/codeCompile.png)
+![alt text](https://github.com/nmehanma/nmehanma/blob/main/codeCompileGood.png)
 
 ## Hi there, you've found your way to my profile 👋
 
