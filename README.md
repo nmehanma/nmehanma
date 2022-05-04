@@ -37,8 +37,8 @@ Experienced problem-solver in complex situations with a proven track record of d
 
 ### Connect With Me
 
-<kbd> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </kbd>
-<kbd> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </kbd>
+<kbd> <a href="https://github.com/nmehanma" <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </kbd>
+<kbd> <a href="https://www.linkedin.com/in/najeammehanmal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </kbd>
 
 
 
